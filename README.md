@@ -1,16 +1,15 @@
-### Hi there 👋
+$ cat /etc/issue
+                                __            
+  _____________   ____   _____ |  | _________ 
+ /  ___/\_  __ \_/ ___\ /     \|  |/ /\_  __ \
+ \___ \  |  | \/\  \___|  Y Y  \    <  |  | \/
+/____  > |__|    \___  >__|_|  /__|_ \ |__|   
+     \/              \/      \/     \/        
 
-<!--
-**srcmkr/srcmkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ uname -a
+Human Ben "srcmkr"  #1 SMP PREEMPT RT 02 Oct ???? 14:17:56 +0000 x86_64 HE/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat /etc/profile
+DOMAIN=srcmkr.io
+GITHUB=srcmkr
+TWITTER=srcmkr

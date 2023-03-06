@@ -1,3 +1,7 @@
+![srcmkr's Stats](https://github-readme-stats.vercel.app/api?username=srcmkr&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![srcmkr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=srcmkr&theme=slateorange&hide_border=true)
+
+
 ```
 $ cat /etc/issue
 
